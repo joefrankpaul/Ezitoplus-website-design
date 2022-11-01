@@ -151,7 +151,23 @@ footer{
     background-color: #e8491d;
     text-align: center;
 }
-
+footer .medi{
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+.media-handle{
+    border-radius: 10px;
+    border: none;
+}
+.media-handle:hover{
+background-color: cornflowerblue;
+opacity: 0.5;
+}
+.medi{
+    color: black;
+}
 
 
 
